@@ -33,7 +33,9 @@ Simulated a multi‑router network using Docker containers with full IP routing,
 
 ## 🌐 Connect with Me
 
-[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/malekmoussa/) [![GitHub](https://skillicons.dev/icons?i=github)](https://github.com/malek191) [![Email](https://skillicons.dev/icons?i=gmail)](mailto:malekmoussa191@gmail.com)
+[![LinkedIn](https://skillicons.dev/icons?i=linkedin&theme=light)](https://www.linkedin.com/in/malekmoussa/) 
+[![GitHub](https://skillicons.dev/icons?i=github&theme=light)](https://github.com/malek191) 
+[![Email](https://skillicons.dev/icons?i=gmail&theme=light)](mailto:malekmoussa191@gmail.com)
 
 ---
 
