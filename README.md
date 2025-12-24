@@ -1,18 +1,31 @@
-# 👋 Hey there, I'm Malek Moussa
+# 👋 Hi, I'm Malek Moussa
 
-**B.S. in Computer Science | Entry-Level Developer & Analyst | Open to Remote/Relocation**
-
-I turn ideas into **well-structured code, databases, and solutions** with expertise in **SQL, Python, Networking, and Cybersecurity**.
+**Entry-Level Developer & Analyst | SQL, Python, Networking, Cybersecurity**  
+Computer Science graduate with experience in **backend systems, Linux administration, Docker, and SQL databases**.
 
 ---
 
-## 🔥 Skills & Tech Stack
+## 🛠 Skills & Tech Stack
 
-**Languages:** Python, SQL, C++, Bash, HTML/CSS, JavaScript  
-**Databases:** MySQL, PostgreSQL, Relational DB Design, Triggers, Views, Stored Procedures  
-**Networking & Cloud:** Docker, IPv6/IPv4, Routing, Linux, Enterprise Infrastructure  
-**Security:** Buffer Overflow, DDoS Prevention, CSP, Network Security  
-**Tools & Platforms:** Git, GitHub, VS Code, Wireshark, UFW  
+### Programming & Tools
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-00758F?style=flat-square&logo=mysql&logoColor=white)
+![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+
+### Systems & Networking
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Wireshark](https://img.shields.io/badge/Wireshark-0081C9?style=flat-square&logo=wireshark&logoColor=white)
+![TCP/IP](https://img.shields.io/badge/TCP/IP-007ACC?style=flat-square&logo=protocols&logoColor=white)
+
+### Cloud & DevOps
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
+![CI/CD](https://img.shields.io/badge/CI/CD-6DB33F?style=flat-square)
 
 ---
 
@@ -28,16 +41,16 @@ I turn ideas into **well-structured code, databases, and solutions** with expert
 
 ### 3️⃣ [Docker Network Routing Lab](https://github.com/malek191/docker-net-routing-lab)  
 Simulated a multi‑router network using Docker containers with full IP routing, subnet configs, and connectivity validation.  
-**Skills:** Docker · Networking · IPv4/IPv6 · Routing Tables · Linux · Troubleshooting
+**Skills:** Docker · Networking · IPv4/IPv6 · Routing Tables · Linux · Troubleshooting  
 
 ---
 
-## 📬 Connect with Me
+## 🌐 Connect with Me
 
-- **LinkedIn:** [linkedin.com/in/malekmoussa](https://www.linkedin.com/in/malekmoussa/)  
-- **GitHub:** [github.com/malek191](https://github.com/malek191)  
-- **Email:** malekmoussa191@gmail.com  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/malekmoussa/)  
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/malek191)  
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:malekmoussa191@gmail.com)
 
 ---
 
-> Let’s build something cool together!
+> ⚡ Always building, learning, and exploring new tech!
