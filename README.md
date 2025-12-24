@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Malek Moussa
 
-**Entry-Level Developer & Analyst | Software Development, Networking, Cybersecurity**  
+**Entry-Level Developer & Analyst | SQL, Python, Networking, Cybersecurity**  
 Computer Science graduate with experience in **backend systems, Linux administration, Docker, and SQL databases**.
 
 ---
