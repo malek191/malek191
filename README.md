@@ -11,7 +11,7 @@ Computer Science graduate with experience in **backend systems, Linux administra
 <img src="https://skillicons.dev/icons?i=c,python,cpp,java,javascript,SQL,bash" height="40"/>
 
 ### Tools & Platforms
-<img src="https://skillicons.dev/icons?i=linux,docker,aws,kubernetes,git,github,wireshark" height="40"/>
+<img src="https://skillicons.dev/icons?i=linux,docker,aws,kubernetes,git,github,wireshark,discord" height="40"/>
 
 ---
 
