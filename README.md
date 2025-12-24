@@ -8,7 +8,7 @@ Computer Science graduate with experience in **backend systems, Linux administra
 ## 🛠 Skills & Tech Stack
 
 ### Programming Languages
-<img src="https://skillicons.dev/icons?i=c,python,cpp,java,javascript,bash" height="80"/>
+<img src="https://skillicons.dev/icons?i=c,python,cpp,java,javascript,bash,sql" height="80"/>
 
 ### Tools & Platforms
 <img src="https://skillicons.dev/icons?i=linux,docker,aws,kubernetes,git,github,discord" height="80"/>
